@@ -1,0 +1,18 @@
+{
+  "courses": [
+    {
+      "id": "acc311-long-demo",
+      "code": "ACC311",
+      "title": "Fundamentals of Auditing",
+      "subtitle": "Long questions (5 marks) — demo handouts",
+      "dataUrl": "/courses/acc311-demo-long.json"
+    },
+    {
+      "id": "demo-long-questions",
+      "code": "ACC311",
+      "title": "Fundamentals of Auditing",
+      "subtitle": "Long questions (5 marks) — demo",
+      "dataUrl": "/courses/demo-long-questions.json"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "courseCode": "ACC311",
+  "sourceHtml": "newHtml/demo.html",
+  "questionType": "long",
+  "marksPerQuestion": 5,
+  "generatedAt": "2026-04-03T12:00:00.000Z",
+  "model": "sample",
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "lessonId": "ls-01",
+      "title": "FUNDAMENTALS OF AUDITING AN INTRODUCTION",
+      "longQuestions": [
+        {
+          "id": "l01-lq01",
+          "marks": 5,
+          "question": "Explain why independent audit is needed when owners are separate from management, and outline the main limitations of relying solely on unaudited reports.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "When **ownership** is split from **management**, managers report to owners; unaudited reports may not be trusted because errors, fraud, or misleading presentation can occur."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "An **independent auditor** examines financial statements and gives an opinion, improving *credibility* for users.",
+                "Limitations: audit gives *reasonable assurance*, not absolute proof; it uses sampling and judgment; it does not guarantee discovery of all fraud."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l01-lq02",
+          "marks": 5,
+          "question": "Compare the roles of accounting and auditing in relation to a company’s financial statements.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "**Accounting** is recording, classifying, and summarizing information to prepare statements; **directors** are responsible for preparation and policies."
+            },
+            {
+              "type": "paragraph",
+              "text": "**Auditing** examines whether those statements give a *true and fair view* under applicable standards; the auditor expresses an opinion but does not prepare the books."
+            },
+            {
+              "type": "orderedList",
+              "items": [
+                "Accountants need accounting standards knowledge to prepare data.",
+                "Auditors need the same to evaluate whether presentation is fair."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 2,
+      "lessonId": "ls-02",
+      "title": "Fundamentals of Auditing — Auditor's Report",
+      "longQuestions": [
+        {
+          "id": "l02-lq01",
+          "marks": 5,
+          "question": "Describe the purpose of the auditor’s report and why the auditor states an opinion rather than absolute certainty.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The **auditor’s report** communicates the auditor’s **opinion** on whether financial statements show a true and fair view, addressed to owners or stakeholders."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "The auditor says *in my opinion* because audit evidence is *persuasive*, not always conclusive, and audits use sampling.",
+                "Users rely on the opinion when they trust the auditor’s *independence*, competence, and integrity."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

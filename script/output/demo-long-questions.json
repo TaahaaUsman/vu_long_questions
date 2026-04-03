@@ -1,0 +1,110 @@
+{
+  "courseCode": "ACC311",
+  "sourceHtml": "long-questions/script/input/demo.html",
+  "questionType": "long",
+  "marksPerQuestion": 5,
+  "generatedAt": "2026-04-03T22:02:56.854Z",
+  "model": "mock",
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "lessonId": "ls-01",
+      "title": "FUNDAMENTALS OF AUDITING AN INTRODUCTION",
+      "longQuestions": [
+        {
+          "id": "l01-lq01",
+          "marks": 5,
+          "question": "[Mock — 5 marks] Explain a main theme from \"FUNDAMENTALS OF AUDITING AN INTRODUCTION…\" using only the lecture text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Replace by running `npm run generate` with API access. **5-mark** answers: short paragraph plus bullets where useful."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "First developed point (mock)",
+                "Second point with *emphasis* (mock)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 2,
+      "lessonId": "ls-02",
+      "title": "Fundamentals of Auditing Auditing – An Introduction",
+      "longQuestions": [
+        {
+          "id": "l02-lq01",
+          "marks": 5,
+          "question": "[Mock — 5 marks] Explain a main theme from \"Fundamentals of Auditing Auditing – An Introductio…\" using only the lecture text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Replace by running `npm run generate` with API access. **5-mark** answers: short paragraph plus bullets where useful."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "First developed point (mock)",
+                "Second point with *emphasis* (mock)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 3,
+      "lessonId": "ls-03",
+      "title": "FUNDAMENTALS OF AUDITING AUDITING – AN INTRODUCTION",
+      "longQuestions": [
+        {
+          "id": "l03-lq01",
+          "marks": 5,
+          "question": "[Mock — 5 marks] Explain a main theme from \"FUNDAMENTALS OF AUDITING AUDITING – AN INTRODUCTIO…\" using only the lecture text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Replace by running `npm run generate` with API access. **5-mark** answers: short paragraph plus bullets where useful."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "First developed point (mock)",
+                "Second point with *emphasis* (mock)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 4,
+      "lessonId": "ls-04",
+      "title": "OBJECTIVE AND GENERAL PRINCIPLES GOVERNING AN AUDIT OF FINANCIAL STATEMENTS",
+      "longQuestions": [
+        {
+          "id": "l04-lq01",
+          "marks": 5,
+          "question": "[Mock — 5 marks] Explain a main theme from \"OBJECTIVE AND GENERAL PRINCIPLES GOVERNING AN AUDI…\" using only the lecture text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Replace by running `npm run generate` with API access. **5-mark** answers: short paragraph plus bullets where useful."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "First developed point (mock)",
+                "Second point with *emphasis* (mock)"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
