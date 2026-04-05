@@ -16,9 +16,9 @@ This folder mirrors **short-questions**: a **generator** (`script/`) and a **Rea
 
 ### Folders
 
-| Path | Purpose |
-|------|--------|
-| `script/input/` | Handout **`.html`** files (one or many). |
+| Path             | Purpose                                                            |
+| ---------------- | ------------------------------------------------------------------ |
+| `script/input/`  | Handout **`.html`** files (one or many).                           |
 | `script/output/` | Generated JSON (`*.json` gitignored; folder kept with `.gitkeep`). |
 
 **Output file name:** `input/{basename}.html` → `output/{basename}-long-questions.json`  
@@ -33,13 +33,13 @@ cd long-questions/script
 npm install
 ```
 
-| Command | What it does |
-|---------|----------------|
-| `npm run dry-run` | Per lecture: estimated **long** question count range (no API). |
-| `npm run generate` | OpenAI: long questions for each HTML in `input/` → `output/`. |
-| `npm run generate:mock` | Mock JSON, no API. |
+| Command                 | What it does                                                                                             |
+| ----------------------- | -------------------------------------------------------------------------------------------------------- |
+| `npm run dry-run`       | Per lecture: estimated **long** question count range (no API).                                           |
+| `npm run generate`      | OpenAI: long questions for each HTML in `input/` → `output/`.                                            |
+| `npm run generate:mock` | Mock JSON, no API.                                                                                       |
 | `npm run generate:sync` | Same as `generate`, plus **--sync** (copy to `vistuallization/public/courses/` and update `index.json`). |
-| `npm run generate:one` | Shortcut for `--lesson=1`; adjust in `package.json` or use CLI. |
+| `npm run generate:one`  | Shortcut for `--lesson=1`; adjust in `package.json` or use CLI.                                          |
 
 Mock + sync (no API):
 
@@ -137,3 +137,5 @@ Payload includes `questionType: "long"`, `marksPerQuestion: 5`, and:
 - **No HTML in input** — add files under `script/input/` or pass a path.
 - **API errors** — same as short: billing, model access, `OPENAI_API_MODE`.
 - **Extra cards in the app** — clean `vistuallization/public/courses/index.json` entries you do not want.
+
+Hello dost kaisa ho. this is just for the commit and branch creation of the personal pc. That's it we do not have any other purpose.
